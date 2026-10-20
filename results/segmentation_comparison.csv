@@ -1,0 +1,5 @@
+image,method,threshold,foreground_pixels,foreground_ratio
+cena_favoravel,fixed,120,9501,0.13087
+cena_favoravel,otsu,otsu_auto,9501,0.13087
+cena_dificil,fixed,120,20943,0.28847
+cena_dificil,otsu,otsu_auto,31092,0.42826
